@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a master's student in ecology with a strong interest in **spatial ecology and landscape-scale analysis**, particularly **scale-dependent effects of landscape structure on ecological patterns and processes**.
+
+My current focus is on using **R-based spatial analysis and statistical modeling** to study how environmental heterogeneity and human disturbance (e.g. urbanization) influence biodiversity and community structure.
+
+This GitHub repository serves as a transparent record of my ongoing research projects, methodological exploration, literature synthesis, and research ideas.
+
+---
